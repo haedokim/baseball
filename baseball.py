@@ -60,7 +60,7 @@ def load_data():
 # UI
 # ─────────────────────────────────────────
 st.set_page_config(
-    page_title="⚾ 야유회 스코어보드",
+    page_title="⚾ 선실전장과 사설토토",
     page_icon="⚾",
     layout="centered"
 )
