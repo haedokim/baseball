@@ -112,7 +112,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ─── 헤더 ───
-st.markdown("## ⚾ 야유회 실시간 스코어보드")
+st.markdown("## ⚾ 선실전장 실시간 스코어보드")
 st.markdown("🔵 **롯데 자이언츠** vs 🟢 **NC 다이노스**")
 st.divider()
 
